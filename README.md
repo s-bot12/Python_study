@@ -4,9 +4,7 @@
 ### 1. 문자열 관련 함수들
 --------------------
 
-  <span style="color:red">red</span>
-
- <span style="color:red">a = "hobby"</span>
+  a = "hobby"
   
     - a.count('b')     => 2
     - a.find('b')      => 2 (없으면 -1)
