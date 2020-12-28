@@ -4,9 +4,9 @@
 ### 1. 문자열 관련 함수들
 --------------------
 
-  a = "hobby"
+ <span class="evidence"> a = "hobby" </span>
   
-    - <span class="evidence">a.count('b')</span>     => 2
+    - a.count('b')     => 2
     - a.find('b')      => 2 (없으면 -1)
     - a.find('b')      => 2 (없으면 error)
     - a.upper()        => 'HOBBY'
