@@ -6,7 +6,7 @@
 
   a = "hobby"
   
-    - a.count('b')     => 2
+    - <span class="evidence">a.count('b')</span>     => 2
     - a.find('b')      => 2 (없으면 -1)
     - a.find('b')      => 2 (없으면 error)
     - a.upper()        => 'HOBBY'
